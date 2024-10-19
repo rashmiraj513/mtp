@@ -27,6 +27,8 @@ source <virtual_env_name>/Scripts/activate
 python.exe -m pip install -r requirements.txt
 ```
 
+4. After successfully completing above steps, you can open `main.ipynb` and run it manually.
+
 > Note:
 >
 > - Replace the `virtual_env_name` with your virtual environment name.
